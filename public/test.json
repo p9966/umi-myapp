@@ -1,0 +1,509 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 5936,
+                "name": "我是真的讨厌异地恋",
+                "poster": "https://pic.maizuo.com/usr/movie/10e7be842fa87aae8f20c565ede789a1.jpg",
+                "actors": [
+                    {
+                        "name": "吴洋",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/82cbd1330d86c9976b8b15f50bf187d4.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "周男燊",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/74a24ea07e374455e71dcbcbdcfe32c0.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "任敏",
+                        "role": "赵一一",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/726e29fece19cb0084c244fab87d2ade.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "辛云来",
+                        "role": "许嘉树",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d131e61678ef5a283ffab7f471876337.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "李孝谦",
+                        "role": "李唐",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1851abbf262ae8b582812961a0e16435.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "吴洋|周男燊",
+                "category": "爱情|青春|喜剧",
+                "synopsis": "要相信：熬过异地，就是一生。故事围绕赵一一（任敏 饰）和许嘉树（辛云来 饰）展开，高考之后，赵一一终于向暗恋多年的许嘉树表白，却阴差阳错开启一场异地恋。他们坚信：熬过异地，就是一生。可远距离恋爱的天然阻碍考验着他们，明明相爱，却不断缺席对方的生活。赛赫（陈宥维 饰）的出现以及闺蜜乔乔（周雨彤 饰）和李唐（李孝谦 饰）一波三折的爱情都让赵一一感触良多。当异地恋升级为异国恋，是继续坚持，还是一别两宽，各自成长的二人不得不面对自己内心的答案…",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1651190400,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.4",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5947,
+                "name": "坏蛋联盟",
+                "poster": "https://pic.maizuo.com/usr/movie/594ded98490b61549be7ecb5a9355b79.jpg",
+                "actors": [
+                    {
+                        "name": "彼埃尔·佩里菲尔",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ae3dfe1adfa6ea815060e59755be91de.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "山姆·洛克威尔",
+                        "role": "Mr. Wolf",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/da7a219d957fdf0ba6b930e046a484b3.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "秦昊",
+                        "role": "大坏狼",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a4a438c3827ffbd51dc3bb91cda0f6d6.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "奥卡菲娜",
+                        "role": "Ms. Tarantula",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b1271af16d9d6abc03459fbbb34987d1.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "锤娜丽莎",
+                        "role": "美肚鲨",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/60d410811425d713a166b91beae28166.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "彼埃尔·佩里菲尔",
+                "category": "喜剧|动画|动作",
+                "synopsis": "梦工场最新动画喜剧电影《坏蛋联盟》(The Bad Guys)改编自同名畅销漫画，全球出版1600万册。本片由《功夫熊猫》系列电影资深动画师彼埃尔·佩里菲尔执导，《魔发精灵》《宝贝老板》王牌制片人保驾护航。漫画由艾伦·布拉培创作，黑白风格，围绕五个“坏蛋”：大坏狼、美肚鲨、贪心蛇、食人鱼、骇客蛛展开故事，它们是令人闻风丧胆的“坏蛋联盟”，然而它们却决定成为模范公民。它们是真的想改“邪”归“正”吗？",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1651190400,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.9",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5930,
+                "name": "神奇动物:邓布利多之谜",
+                "poster": "https://pic.maizuo.com/usr/movie/46015aa8e08a661e7c559b6e7407ce08.jpg",
+                "actors": [
+                    {
+                        "name": "大卫·叶茨",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/09f20e45368d9b72f0486832cdca3515.jpg"
+                    },
+                    {
+                        "name": "埃迪·雷德梅恩",
+                        "role": "Newt Scamander",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/abc90de5146a433722e271d7f50f2307.jpg"
+                    },
+                    {
+                        "name": "艾莉森·苏朵儿",
+                        "role": "Queenie Goldstein",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9ba30918f6711258eae858b70d1de1cb.jpg"
+                    },
+                    {
+                        "name": "裘德·洛",
+                        "role": "Albus Dumbledore",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/36153b8976833af21d0b98f6ff162bbd.jpg"
+                    },
+                    {
+                        "name": "凯瑟琳·沃特森",
+                        "role": "Tina Goldstein",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/896888f70e69cb68ed9e87f0424e95c1.jpg"
+                    }
+                ],
+                "director": "大卫·叶茨",
+                "category": "奇幻|冒险",
+                "synopsis": "阿不思·邓布利多教授（裘德·洛 饰）意识到强大的黑巫师盖勒特·格林德沃（麦斯·米科尔森 饰）正试图夺取魔法世界的控制权。邓布利多了解仅凭他一人之力，将无法阻止格林德沃，于是他委托魔法动物学家纽特·斯卡曼德（埃迪·雷德梅恩 饰）带领一支精良的团队——成员包括男巫、女巫及一位勇敢的麻瓜面包师，来共同执行这项危险任务。一路上他们会遇到各式各样的神奇动物，既有老朋友，也有前所未见的神秘生物；同时他们也随时会与格林德沃不断壮大的追随者发生冲突。这次行动的风险是如此之高……邓布利多还能袖手旁观多久？",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国,英国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1649376000,
+                "timeType": 3,
+                "runtime": 143,
+                "grade": "7.8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5945,
+                "name": "出拳吧，妈妈",
+                "poster": "https://pic.maizuo.com/usr/movie/6feeed3643a96934a81d4c7c0b11dad5.jpg",
+                "actors": [
+                    {
+                        "name": "唐晓白",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3bea1e7a05deafd209bc23e94317fb85.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "谭卓",
+                        "role": "白杨",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8288750d0756972779198e28a8724808.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "田雨",
+                        "role": "沈浩",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/87dc54c2c4484f062724fef3e958f84c.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "田海蓉",
+                        "role": "白杨姐姐",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/39401ee8cb1cff5f5abc081ca4ebf4ef.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "郭唐维",
+                        "role": "小辉",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2e691f02f4e926b5aaf653f619876670.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "唐晓白",
+                "category": "亲情|励志|运动",
+                "synopsis": "丧到家的人生难道翻盘不出高光时刻了吗？白杨（谭卓饰演）是一个性格倔强、坚守内心原则的年轻妈妈；几年前因一时冲动失去所有、母子分离，孩子被迫交给姐姐（田海蓉饰演）扶养；直到遇见性格奇葩、舌毒心暖的男人沈浩（田雨饰演），在他的帮助下，白杨重新燃起了斗志，痛下决心夺回失去的一切。而前方等着白杨的，却完全超乎了她的想象……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1651276800,
+                "timeType": 3,
+                "runtime": 96,
+                "grade": "7.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5920,
+                "name": "边缘行者",
+                "poster": "https://pic.maizuo.com/usr/movie/afdef208d7b72a950b164c007e8a0837.jpg",
+                "actors": [
+                    {
+                        "name": "谭耀文",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9bb5e7a0d1ae00cb64370802c0ca812c.jpg"
+                    },
+                    {
+                        "name": "黄明升",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a1b031211683411b6aea7288cdaa0233.jpg"
+                    },
+                    {
+                        "name": "任贤齐",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/42ff2bb4fc35cfc4c569cce29b1dc574.jpg"
+                    },
+                    {
+                        "name": "任达华",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/56087e1d22305c93dc9c30441f0b60e0.jpg"
+                    },
+                    {
+                        "name": "方中信",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/cdd4b9595ba13f68a1d145902c811bbf.jpg"
+                    }
+                ],
+                "director": "黄明升",
+                "category": "犯罪|动作",
+                "synopsis": "1997年回归前夕，多方势力矛盾激化，暴力事件频发。巨变当前，黑帮龙头林耀昌（任达华 饰）对亲信阿骆（任贤齐 饰）委以帮派重任。多重身份的阿骆在黑白边缘行走，一场除暴行动正悄然掀开反杀的序幕。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国香港,中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1649980800,
+                "timeType": 3,
+                "runtime": 113,
+                "grade": "7.7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5941,
+                "name": "亡命救护车",
+                "poster": "https://pic.maizuo.com/usr/movie/2232a8ce63c81b65ca182b9a232e431d.jpg",
+                "actors": [
+                    {
+                        "name": "迈克尔·贝",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9428aa95057cd68f65fd157ddb937541.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "杰克·吉伦哈尔",
+                        "role": "Danny Sharp",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e44fdf0d90015862dc140866f73cb963.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "叶海亚·阿卜杜勒-迈丁",
+                        "role": "Will Sharp",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5c4be2ec4adb7c8d813dd69f917f99bb.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "艾莎·冈萨雷斯",
+                        "role": "Cam Thompson",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7cd3516ff83376933b0b0b02faeee2b9.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "德文·隆恩",
+                        "role": "William Wallace",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8b93997c7281aab5966f399096adc281.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "迈克尔·贝",
+                "category": "动作|犯罪",
+                "synopsis": "影片翻拍自2005年同名丹麦电影，讲述一个从阿富汗回来的老兵被兄弟拉下水去抢劫银行，当事情发生可怕的差错时，他们抢占了一辆救护车来逃避追捕，不料车上已经有一个医护人员正在给病悼只懂人棕己艰宙做急救，气氛紧张。随签背着事态的升级，兄弟之间的老矛盾再次出现，他们要在艰苦环境下努力求生。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1650585600,
+                "timeType": 3,
+                "runtime": 135,
+                "grade": "7.4",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5918,
+                "name": "精灵旅社4：变身大冒险",
+                "poster": "https://pic.maizuo.com/usr/movie/ea4450d05d12846769fc40cf4817b847.jpg",
+                "actors": [
+                    {
+                        "name": "德里克·德莱蒙",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0f71ec213c2c4654496cbc9aec5eb179.jpg"
+                    },
+                    {
+                        "name": "詹妮弗·克鲁斯卡",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b7b7b3511c075d3b9a48b9e7a446a5cb.jpg"
+                    },
+                    {
+                        "name": "布赖恩·哈尔",
+                        "role": "德古拉",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/20eafa5093d2f02e23528ae63c67af91.jpg"
+                    },
+                    {
+                        "name": "赛琳娜·戈麦斯",
+                        "role": "梅菲丝",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fdb7244d7acd3ebd00ada41077b599c9.jpg"
+                    },
+                    {
+                        "name": "弗兰·德莱斯切尔",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7e1f76fcb2ec72daefdf0f53587c766e.jpg"
+                    }
+                ],
+                "director": "德里克·德莱蒙|詹妮弗·克鲁斯卡",
+                "category": "喜剧|动画|奇幻|冒险",
+                "synopsis": "在精灵旅社125周年庆典派对上，一场意外使德古拉带领的精灵家族首次变身成人，而约翰尼则成了怪兽。为了寻找治疗方法，这对冤家翁婿前往危机重重的南美雨林开启了一场欢乐又刺激的冒险之旅，遭遇了种种令人捧腹的窘况。得知消息的梅菲斯带领精灵家族前去营救爱人和老爸，他们最终能否将一切恢复正常？",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1648944000,
+                "timeType": 3,
+                "runtime": 88,
+                "grade": "7.2",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5933,
+                "name": "误杀瞒天记",
+                "poster": "https://pic.maizuo.com/usr/movie/de2be5cf14be8687cf26e5cfebcec04e.jpg",
+                "actors": [
+                    {
+                        "name": "尼西卡特·卡马特",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5b80929a74bb703550815c91adba3f0f.jpg"
+                    },
+                    {
+                        "name": "阿贾耶·德乌干",
+                        "role": "Vijay Salgaonkar",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/20a357055dafe5d11605ded8dff4f8b6.png"
+                    },
+                    {
+                        "name": "塔布",
+                        "role": "Meera Deshmukh",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/86be9d9cd4bc5280998142c7d1935ad7.jpg"
+                    },
+                    {
+                        "name": "施芮娅·萨兰",
+                        "role": "Nandini Salgaonkar",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e9eff8814241cf00a750cc2d1f2aae1f.jpg"
+                    },
+                    {
+                        "name": "拉贾特·卡普尔",
+                        "role": "Mahesh Deshmukh",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/67cb7c8a3512298a893360a985b0569d.jpg"
+                    }
+                ],
+                "director": "尼西卡特·卡马特",
+                "category": "悬疑|犯罪",
+                "synopsis": "男主人公维杰经营着一家网络公司，有着幸福的家庭。某天，大女儿安玖不堪男孩萨姆骚扰而错手将其杀死。这场黑夜里的误杀，打破了维杰一家人安宁的生活。为了捍卫女儿和家庭，只有小学文凭的维杰，开始了一些列瞒天过海的计划。该片是电影《误杀》的印度原版，因其缜密的悬疑推理和精巧的反转叙事被奉为悬疑犯罪片经典，并被多国翻拍。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "印度",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1649980800,
+                "timeType": 3,
+                "runtime": 143,
+                "grade": "7.9",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5765,
+                "name": "笨鸟大冒险",
+                "poster": "https://pic.maizuo.com/usr/movie/35256d0f6592697861a2fb58b10affa5.jpg",
+                "actors": [
+                    {
+                        "name": "袁翙鹏",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9e67e5dbc8a7d0a64df85880d270d87e.jpg"
+                    },
+                    {
+                        "name": "伍凤春",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2010b496d02082dcc9af53c815ede3f3.jpg"
+                    },
+                    {
+                        "name": "李姗姗",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7d39c04b0ca5bf818884e4b63a31e548.jpg"
+                    },
+                    {
+                        "name": "巩大方",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4e1bd8bea7d6c8ee3953ca3de65f2de7.jpg"
+                    },
+                    {
+                        "name": "汤水雨",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6cccbb2b28206d2720bf94aa9161eed9.jpg"
+                    }
+                ],
+                "director": "袁翙鹏",
+                "category": "动画|冒险",
+                "synopsis": "影片讲述了刚出生的鸻鹬鸟因练习飞行时遭遇危险而没能学会飞行境旋柜，只能徒步踏上前往天堂谷旅程的冒险故事，在天敌谜巴少拒追击的过程中，它爬过悬崖，越过草地，翻越山岭，也成罪盛挨长为了更勇敢的自己。 《笨鸟大冒险》在故事上更加细腻，更加贴近生活，通过小鸻鸟如何跟随父母学习本领、怎样独自走过这个冬天、路上结识了哪些脚糊朋友，可谓是融合了亲情、友情、责任、担当等众多元素。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1638576000,
+                "timeType": 3,
+                "runtime": 80,
+                "grade": "7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5377,
+                "name": "小美人鱼的奇幻冒险",
+                "poster": "https://pic.maizuo.com/usr/movie/e26ccb7bc562573ab2032d752d55d45f.jpg",
+                "actors": [
+                    {
+                        "name": "思明",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fbc620971e5d6e65c62a946ae6d36665.jpg"
+                    }
+                ],
+                "director": "思明",
+                "category": "动画|奇幻|冒险",
+                "synopsis": "海的女儿—美人鱼作为经典的童话故事之一伴随几代人的童年记忆在世间广为流传。本片讲述在神秘的海洋国度，美丽勇敢的小美人鱼抗争传统束缚，追求自由从而改变自己命运的故事。此片再现“美人鱼”的纯真世界，用积极且充满正能量的内容再一次唤起大众对于这个经典题材的兴趣。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1617408000,
+                "timeType": 3,
+                "runtime": 82,
+                "grade": "7.7",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 30
+    },
+    "msg": "ok"
+}
